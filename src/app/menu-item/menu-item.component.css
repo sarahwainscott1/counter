@@ -1,0 +1,15 @@
+li {
+    display: inline-block;
+}
+a {
+    margin-left:20px;
+    color:aliceblue;
+    text-decoration: none;
+    
+}
+a:hover {
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: aliceblue;
+}

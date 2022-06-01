@@ -1,0 +1,19 @@
+.div2 {
+    color:pink;
+}
+.div3 {
+    font-weight: bold;
+}
+.div5 {
+    font-style: italic;
+}
+body {
+    margin: 0px;
+    background-color: azure;
+}
+button {
+    margin-bottom: 80%;
+}
+html {
+    margin: -1px;
+}
